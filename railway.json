@@ -1,0 +1,9 @@
+{
+  "$schema": "https://railway.app/schema.json",
+  "build": {
+    "builder": "python",
+    "installCommand": "pip install -r requirements.txt",
+    "startCommand": "python feishu_ai_assistant.py"
+  },
+  "name": "feishu-ai-assistant"
+}
