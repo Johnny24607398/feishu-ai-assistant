@@ -1,0 +1,4 @@
+# 在本地打开终端，进入存放代码的文件夹，然后运行：
+git remote add origin https://github.com/Johnny24607398/feishu-ai-assistant.git
+git branch -M main
+git push -u origin main
